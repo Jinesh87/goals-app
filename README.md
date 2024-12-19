@@ -34,7 +34,7 @@ To Start Server:
 
 To Visit App:
 
-`localhost:3000/`  
+Scan the QR code with Expo Go (Android) or the Camera app (iOS)
 
 
 
